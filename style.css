@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    font-size: 15rem;
+    line-height: 90vh;
+    height: 100vh;
+    text-align: center;
+    color: #fcedd8;
+    background-color: #762ed5;
+    font-family: 'Niconne', cursive;
+    font-weight: 700;
+    text-shadow: 5px 5px 0px #2c2727,
+                 10px 10px 0px #efa032,
+                 15px 15px 0px #0baf89,
+                 20px 20px 0px #017e7f,
+                 25px 25px 0px #69b7d8,
+                 30px 30px 0px #27af32,
+                 35px 35px 0px #1ac13e,
+                 40px 40px 0px #1ac11a,
+                 45px 45px 0px #1ac14c;
+}
